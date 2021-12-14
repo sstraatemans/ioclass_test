@@ -1,3 +1,3 @@
-# Main branch
+# Import example
 
-You've reached the main branch.
+See the src folder.
