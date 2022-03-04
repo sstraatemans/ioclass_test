@@ -15,7 +15,7 @@
     "start": "concurrently --kill-others  \"npm run server\" \"npm run startapp\"",
     "startapp": "react-scripts start",
     "build": "react-scripts build",
-    "server": "json-server-auth ./data/db.json --port=3030"
+    "server": "json-server-auth ./data/db.json --port=3030  -r ./data/routes.json"
   },
   "eslintConfig": {
     "extends": [

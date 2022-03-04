@@ -1,5 +1,11 @@
 {
-  "users": [],
+  "users": [
+    {
+      "email": "asterix@iodigital.com",
+      "password": "$2a$10$z5bcg/Sayb18Fg452kIzXOEA/AaSsDrg9JvByNBwKWft6R0V9d.a2",
+      "id": 1
+    }
+  ],
   "todos": [
     {
       "id": 1,
